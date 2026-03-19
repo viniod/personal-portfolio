@@ -2,7 +2,7 @@
 
 Este é meu portfólio pessoal desenvolvido com HTML e CSS, com o objetivo de apresentar projetos e formas de contato.
 
-🔗 Acesse o projeto: https://seu-usuario.github.io/personal-portfolio/
+🔗 Acesse o projeto: https://viniod.github.io/personal-portfolio/
 
 ---
 
