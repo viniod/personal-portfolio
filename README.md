@@ -26,7 +26,7 @@ Este é meu portfólio pessoal desenvolvido com HTML e CSS, com o objetivo de ap
 
 ## ⚠️ Observação
 
-Os projetos apresentados neste portfólio são **fictícios** e foram desenvolvidos apenas para fins de estudo e prática durante a certificação de Responsive Web Design do freeCodeCamp.
+Os projetos apresentados neste portfólio foram desenvolvidos apenas para fins de estudo e prática durante a certificação de Responsive Web Design do freeCodeCamp.
 
 ---
 
